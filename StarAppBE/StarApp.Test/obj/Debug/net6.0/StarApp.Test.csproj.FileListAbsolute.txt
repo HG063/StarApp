@@ -1,0 +1,492 @@
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\testhost.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\testhost.exe
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.runtimeconfig.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ref\StarApp.Test.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.pdb
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.assert.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.core.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.AssemblyReference.cache
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfoInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CoreCompileInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CopyComplete
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\ref\StarApp.Test.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.pdb
+D:\Projects\Incedo\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.genruntimeconfig.cache
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\appsettings.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.exe
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Castle.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\CsvHelper.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\EPPlus.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Moq.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.pdb
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Core.pdb
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.deps.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.exe
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.deps.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.runtimeconfig.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Test.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\EPPlus.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CopyComplete
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\refint\StarApp.Test.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\StarApp.Test.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Test\obj\Debug\net6.0\ref\StarApp.Test.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\testhost.exe
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\testhost.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.deps.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.exe
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Test.deps.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Test.runtimeconfig.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Test.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Test.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\EPPlus.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Moq.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.core.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.csproj.CopyComplete
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\refint\StarApp.Test.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\StarApp.Test.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Test\obj\Debug\net6.0\ref\StarApp.Test.dll

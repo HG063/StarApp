@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EVlC5w25uUsTSZEy480963UF3k28306nIaFrIGT61zc=",
+  "Source": "StarApp.Api",
+  "BasePath": "_content/StarApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StarApp.Api\\wwwroot",
+      "Source": "StarApp.Api",
+      "ContentRoot": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Api\\wwwroot\\",
+      "BasePath": "_content/StarApp.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Api\\wwwroot\\Upload\\TestUpload1.xlsx",
+      "SourceId": "StarApp.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Api\\wwwroot\\",
+      "BasePath": "_content/StarApp.Api",
+      "RelativePath": "Upload/TestUpload1.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\TestUpload1.xlsx"
+    }
+  ]
+}

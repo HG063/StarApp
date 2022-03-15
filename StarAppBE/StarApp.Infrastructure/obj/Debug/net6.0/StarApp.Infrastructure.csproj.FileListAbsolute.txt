@@ -1,0 +1,51 @@
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\ref\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CopyComplete
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\ref\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.runtimeconfig.json
+D:\Projects\Incedo\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.deps.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.runtimeconfig.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CopyComplete
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\refint\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Infrastructure\obj\Debug\net6.0\ref\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.deps.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.runtimeconfig.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.csproj.CopyComplete
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\refint\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\StarApp.Infrastructure.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Infrastructure\obj\Debug\net6.0\ref\StarApp.Infrastructure.dll

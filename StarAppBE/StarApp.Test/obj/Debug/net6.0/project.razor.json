@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Test\\StarApp.Test.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

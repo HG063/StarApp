@@ -1,0 +1,216 @@
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.AssemblyReference.cache
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfoInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CoreCompileInputs.cache
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\appsettings.json
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.exe
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.deps.json
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\ref\StarApp.Api.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.pdb
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Core.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Core.pdb
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\scopedcss\bundle\StarApp.Api.styles.css
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CopyComplete
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\ref\StarApp.Api.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.pdb
+D:\Projects\Incedo\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.genruntimeconfig.cache
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\CsvHelper.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\EPPlus.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Projects\Incedo\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.exe
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.deps.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\EPPlus.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\scopedcss\bundle\StarApp.Api.styles.css
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CopyComplete
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\refint\StarApp.Api.dll
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\StarApp.Api.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Music\Today 9th March\StarApp\StarApp.Api\obj\Debug\net6.0\ref\StarApp.Api.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.staticwebassets.runtime.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.exe
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.deps.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.runtimeconfig.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\EPPlus.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Core.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Core.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\bin\Debug\net6.0\StarApp.Infrastructure.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.AssemblyReference.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfoInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.AssemblyInfo.cs
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\scopedcss\bundle\StarApp.Api.styles.css
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.csproj.CopyComplete
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\refint\StarApp.Api.dll
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.pdb
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\StarApp.Api.genruntimeconfig.cache
+C:\Users\harshit.gupta2\Documents\StarApp\StarApp V6\StarAppBE\StarApp.Api\obj\Debug\net6.0\ref\StarApp.Api.dll

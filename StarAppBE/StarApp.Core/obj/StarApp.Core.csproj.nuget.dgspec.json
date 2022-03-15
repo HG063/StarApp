@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Core\\StarApp.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Core\\StarApp.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Core\\StarApp.Core.csproj",
+        "projectName": "StarApp.Core",
+        "projectPath": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Core\\StarApp.Core.csproj",
+        "packagesPath": "C:\\Users\\harshit.gupta2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harshit.gupta2\\Documents\\StarApp\\StarApp V6\\StarAppBE\\StarApp.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\harshit.gupta2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.2.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.8.6, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
